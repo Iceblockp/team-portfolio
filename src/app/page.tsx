@@ -1,4 +1,5 @@
 import ContactForm from "@/components/pages/ContactForm";
+import Footer from "@/components/pages/Footer";
 import Header from "@/components/pages/Header";
 import Hero from "@/components/pages/Hero";
 import ProjectsShowcase from "@/components/pages/ProjectShowCase";
@@ -23,6 +24,7 @@ export default function Home() {
                 <SkillsSection />
                 <ContactForm />
             </main>
+            <Footer />
         </div>
     )
 }
