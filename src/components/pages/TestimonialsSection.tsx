@@ -61,7 +61,7 @@ const TestimonialsSection = () => {
                                     <p className="text-sm text-fuchsia-400">{testimonial.role}</p>
                                 </div>
                             </div>
-                            <p className="text-gray-300 italic">"{testimonial.quote}"</p>
+                            <p className="text-gray-300 italic">&apos;{testimonial.quote}&apos;</p>
                         </motion.div>
                     ))}
                 </div>

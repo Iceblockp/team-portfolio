@@ -26,7 +26,7 @@ const Hero = () => {
                         animate={{ opacity: 1, y: 0 }}
                         transition={{ duration: 0.8, delay: 0.4 }}
                     >
-                        We're a team of visionary developers and designers crafting the future of digital experiences.
+                        We&apos;re a team of visionary developers and designers crafting the future of digital experiences.
                     </motion.p>
                     <motion.div
                         className="flex flex-col sm:flex-row justify-center space-y-4 sm:space-y-0 sm:space-x-4"
